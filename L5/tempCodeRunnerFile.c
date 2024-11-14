@@ -1,0 +1,1 @@
+char str[] = "8i1i2i3i4i5i6d4d5";
